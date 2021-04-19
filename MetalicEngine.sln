@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MetalicEngine", "MetalicEngine\MetalicEngine.vcxproj", "{57A30090-D34D-4F82-BF32-379B95BD1070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57A30090-D34D-4F82-BF32-379B95BD1070}.Debug|x64.ActiveCfg = Debug|x64
+		{57A30090-D34D-4F82-BF32-379B95BD1070}.Debug|x64.Build.0 = Debug|x64
+		{57A30090-D34D-4F82-BF32-379B95BD1070}.Release|x64.ActiveCfg = Release|x64
+		{57A30090-D34D-4F82-BF32-379B95BD1070}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E78967C-9A55-43FF-9D1A-4A7303CCC159}
+	EndGlobalSection
+EndGlobal
